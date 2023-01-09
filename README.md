@@ -1,5 +1,7 @@
 # react-native-check-app-install
 
+NOTE: This package update the gradle file to make library support the latest react native
+
 ## Installation
 ```
 npm i --save react-native-check-app-install
