@@ -4,7 +4,7 @@ NOTE: This package update the gradle file to make library support the latest rea
 
 ## Installation
 ```
-npm i --save react-native-check-app-install
+npm i --save @enipx/react-native-check-app-install
 react-native link
 ```
 
@@ -12,7 +12,7 @@ react-native link
 Check out the example app in the [example](https://github.com/redpandatronicsuk/react-native-check-app-install/tree/master/example) folder.
 
 ```javascript
-import { AppInstalledChecker, CheckPackageInstallation } from 'react-native-check-app-install';
+import { AppInstalledChecker, CheckPackageInstallation } from '@enipx/react-native-check-app-install';
 
 // To check by app name:
 AppInstalledChecker
